@@ -1,0 +1,37 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "This is namaste react by akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshrao07/REACT-.git"
+  },
+  "keywords": [
+    "react",
+    "namste",
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "akshay saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshrao07/REACT-/issues"
+  },
+  "homepage": "https://github.com/vigneshrao07/REACT-#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
